@@ -2,3 +2,4 @@ VLSI Design Project Overview and Specifications
 Version 1.0 - Initial VLSI Design setup. Includes RTL files and basic verification flow.
 Added: New design flow details for verification.
 Added new test cases for signal counter verification.
+Feature-xyz-v2: Added new VLSI testbench improvements.
